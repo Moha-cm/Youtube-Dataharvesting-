@@ -33,3 +33,7 @@ To interact with and visualize the collected data, run the Streamlit application
 streamlit run  Home.py
 
 
+
+Please make sure you have the necessary requirements installed, including Python, Streamlit, SQLAlchemy, MongoDB, SQL databases, MySQL, googleapiclient, and Plotly. These dependencies are crucial for the proper functioning of the project.
+
+
