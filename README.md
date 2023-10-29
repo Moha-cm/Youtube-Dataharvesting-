@@ -30,7 +30,7 @@ To interact with and visualize the collected data, run the Streamlit application
 3. Run the following command to start the application:
 
 ```bash
-streamlit run  Home.py
+streamlit run  Home.py '''
 
 
 
