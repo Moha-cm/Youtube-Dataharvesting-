@@ -32,7 +32,7 @@ Follow these steps:
 3. Run the following command to start the application:
 
 ```bash
-streamlit run  Home.py ```
+streamlit run  Home.py 
 
 
 
