@@ -24,7 +24,9 @@ Unstructured data, which may not conform to a fixed schema, is stored in MongoDB
 Access the stored data to uncover valuable insights from the YouTube channel. Visualize the data for user-friendly presentation, often using plotting techniques.
 
 ### 5. Streamlit Application
-To interact with and visualize the collected data, run the Streamlit application. Follow these steps:
+To interact with and visualize the collected data, run the Streamlit application.Please make sure you have the necessary requirements installed, including Python, Streamlit, SQLAlchemy, MongoDB, SQL databases, MySQL, googleapiclient, and Plotly. These dependencies are crucial for the proper functioning of the project.
+
+Follow these steps:
 1. Download the source files provided for download.
 2. After downloading, navigate to the project directory in your terminal.
 3. Run the following command to start the application:
@@ -34,6 +36,6 @@ streamlit run  Home.py ```
 
 
 
-Please make sure you have the necessary requirements installed, including Python, Streamlit, SQLAlchemy, MongoDB, SQL databases, MySQL, googleapiclient, and Plotly. These dependencies are crucial for the proper functioning of the project.
+
 
 
