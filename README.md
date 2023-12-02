@@ -31,9 +31,34 @@ Follow these steps:
 2. After downloading, navigate to the project directory in your terminal.
 3. Run the following command to start the application:
 
-```bash
-streamlit run  Home.py 
 
+
+```bash
+streamlit run  Home.py
+```
+
+
+### Required Python Packages
+```
+pip install pandas
+
+pip install streamlit
+
+python -m pip install pymongo
+
+pip install mysql-connector-python
+
+Pip install sqlalchemy
+
+pip install PyMySQL
+
+pip install isodate
+
+pip install google-api-python-client
+
+pip install plotly
+
+```
 
 
 
